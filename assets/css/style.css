@@ -97,10 +97,10 @@ img {
   }
 }
 
-.site-header .navbar {
+/* .site-header .navbar {
   padding-top: 20px;
   padding-bottom: 20px;
-}
+} */
 
 @media (max-width: 991.98px) {
   .site-header .navbar .navbar-nav {
